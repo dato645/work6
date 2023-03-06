@@ -1,0 +1,31 @@
+*{
+    gap:50px
+}
+.logo{
+    height: 53.71px;
+    width: 36.58px;
+    margin-top: 69px;
+    margin-left: 162px;
+}
+.Organick{
+    width: 154px;
+    height: 45px;
+    font-size: 38px;
+    margin-top: 74px;
+    margin-left:15px;
+}
+nav{
+    display: flex;
+}
+ul{
+    display: flex;
+    margin-top: 95px;
+    margin-left: 150px;
+    gap: 25px;
+    height: 23px;
+    width: 564px;
+    font-size: 20px;
+}
+.foto_1{
+    margin-top: 90px;
+}
