@@ -1,0 +1,109 @@
+.logo_ford {
+    height: 25.10769271850586px;
+width: 61.98170471191406px;
+left: 50.82763671875px;
+top: 34.33845520019531px;
+border-radius: 0px;
+ margin-right:10% ;
+}
+
+
+ul{
+    list-style-type:none;
+    font-family: BPG Nino Mtavruli;
+font-size: 20px;
+font-style: italic;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.mtavari{
+    color: #0F54EE;
+    height: 20px;
+    width: 83px;
+    left: 743px;
+    top: 97px;
+    border-radius: nullpx;
+      margin-left:200px ;    
+      margin-top: 3%;
+ 
+}
+.siaxle{
+    height: 20px;
+width: 102px;
+left: 951px;
+top: 97px;
+border-radius: nullpx;
+margin-left: 200px;
+color: #0F54EE;
+margin-top: 3%;
+}
+.contakti{
+        color:#F90D0D;
+        margin-left: 250px;
+        margin-top: 3%;
+}
+.header{
+    display: flex;
+}
+.class2{
+    display: flex;
+}
+p{ 
+    margin-top: 10%;
+    margin-left: 3%;
+ }
+
+
+footer{
+    margin-top: 300px;
+    background-color: #D9D9D9;
+    display: flex;
+    font-family: BPG Nino Mtavruli;
+font-size: 24px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: BPG Nino Mtavruli;
+font-size: 20px;
+font-style: italic;
+font-weight: 400;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.img_map{
+    margin-left: 300px;
+    margin-top: 10%;
+    height: 407px;
+width: 811px;
+left: 542px;
+top: 372px;
+border-radius: 0px;
+
+    
+}
+b{
+    color: #000000;
+}
+
+.zero_p{
+    color: #0F54EE;
+}
+.first_p{
+   color:  #5A5656;
+   margin-top: 100px;
+}
+.two_p{
+    color: #5A5656;
+
+}
+.second_p1{
+    color: #5A5656;
+}

@@ -1,0 +1,149 @@
+*{
+    background-color: #E5E5E5;
+    }
+img{
+    height: 96px;
+width: 184px;
+left: 103px;
+top: 57px;
+border-radius: 0px;
+margin-top: 1%;
+}
+
+ul {
+      list-style-type: none;
+        font-size: 20px;
+        color:#0F54EE;
+        display:flex;
+        gap: 125px;
+        margin-left: 250px;
+        margin-top: 40px;
+        font-style:normal; 
+        margin-right: 60px;
+    }
+    
+    nav {
+        display: flex;
+        margin-right: 10%;
+    }
+span {
+    color:#F90D0D;
+    }
+.two {
+    color: #0F54EE;    
+    }   
+.ford{
+    height: 724px;
+width: 1167px;
+left: 103px;
+top: 256px;
+border-radius: 0px;
+margin-left: 2%;
+margin-top: 7%;
+}
+a {
+   text-decoration: none;
+}
+p{
+    color: #0F54EE;
+    height: 22px;
+width: 793px;
+left: 103px;
+top: 1008px;
+
+font-size: 24px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-left: 2%;
+}
+
+
+
+
+.first{
+    display:flex;
+    background-color:#D9D9D9;
+   
+   height: 264px;
+   width: 561px;
+   left: 103px;
+   top: 1214px;
+   border-radius: 0px;
+
+  
+}
+.img_ford{
+    height: 149px;
+width: 237px;
+left: 146px;
+top: 1271px;
+border-radius: 0px;
+margin-left: 7%;
+margin-top: 10%;
+
+}
+.imformation{
+    background-color:#D9D9D9;
+    height: 147px;
+width: 230px;
+left: 420px;
+top: 1271px;
+color: #000000;
+margin-top: 10%;
+
+font-size: 24px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.second{
+    display: flex;
+    background-color:#D9D9D9;
+  margin-left: 100px;
+    height: 264px;
+width: 561px;
+left: 709px;
+top: 1214px;
+border-radius: 0px;
+}
+
+.ford_img{
+    height: 149px;
+width: 237px;
+left: 752px;
+top: 1271px;
+border-radius: 0px;
+margin-top: 10%;
+margin-left: 7%;
+}
+
+.info{
+    background-color:#D9D9D9;
+    height: 147px;
+width: 230px;
+left: 1026px;
+top: 1271px;
+color: #000000;
+font-size: 24px;
+font-style: italic;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+margin-top: 10%;
+}
+
+footer {
+    display: flex;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}

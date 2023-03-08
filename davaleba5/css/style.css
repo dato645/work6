@@ -13,19 +13,248 @@
     font-size: 38px;
     margin-top: 74px;
     margin-left:15px;
+    font-family: 'Roboto', sans-serif;
 }
 nav{
     display: flex;
 }
-ul{
+.ul1{
     display: flex;
     margin-top: 95px;
     margin-left: 150px;
-    gap: 25px;
+    gap: 20px;
     height: 23px;
     width: 564px;
     font-size: 20px;
+    font-family: 'Roboto', sans-serif;
 }
 .foto_1{
     margin-top: 90px;
+    background-color: #E3F1E9;
+    width: 1920px;
+    height: 450px;
+}
+.foto_2{
+    height: 3px;
+    width: 6px;
+    margin-top: 10px;
+}
+.foto_3{
+    height: 934px;
+    width: 1400px;
+    margin-top: 300px;
+    margin-left: 260px;
+    background-color:#C4C4C4 ;
+    width: 1400px;
+    height:742px; 
+}
+.first_p{
+    margin-left: 492px;
+    margin-top: 100px;height: 59px;
+    width: 517px;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;   
+}
+.two_p{
+    height: 180px;
+    width: 936px;
+    margin-left: 492px;
+    margin-top: 28px;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+}
+.main{
+    display: flex;
+    margin-top: 71px;
+}
+.img1{
+    margin-left: 50px;
+    background-color: #F9F8F8;
+    border-radius: 20px;
+}
+
+.why_Organic {
+    display: flex;
+    margin-left: 443px;
+    margin-top: 17.13px;
+}
+.organictexst {
+    background-color: #f9f8f8;
+   
+    margin-left: 30px;
+    width: 537px;
+    height: 252px;   
+}
+.organictexst h2{
+    height: 29px;
+    margin-top: 63px;
+    width: 142px;
+    font-family:'Roboto', sans-serif ;
+    font-size: 25px;
+    margin-left: 45px;
+     color:#274C5B;
+}
+.organictexst p{
+   
+    margin-top: 7px;
+    font-family:'Open Sans', sans-serif;
+    margin-left: 45px;   
+    color: #525C60;
+}
+.speciality{
+    margin-left: 510px;
+    margin-top: 14px;
+    background-color: #F9F8F8;
+    height: 252px;
+    width: 484px;
+}
+.speciality h1{
+    color: #274C5B;
+    font-size: 25px;
+    font-family:'Roboto', sans-serif;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-block-start: 60px;
+
+}
+.speciality p{
+    font-size: 18px;
+    margin-top: 20px;
+    margin-left: 40px;
+    font-family: 'Open Sans', sans-serif;
+}
+.flouwers{
+    margin-left: 473px;
+    margin-top: -187px;
+    height: 280px;
+    width: 420px;
+   
+}
+.article_2 h2{
+    height: 41px;
+    width: 288px;
+    color:#274C5B;
+    font-family:'Roboto', sans-serif ; 
+    margin-left: 492px;
+    margin-top: 110px; 
+    font-size: 35px;  
+}
+.article_2 p{
+    height: 90px;
+    width: 936px;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 499px;
+    margin-top: 11px;
+    font-size:18px
+}
+.article_2 img{
+    margin-top: 97px;height: 739px;
+    width: 2084px;
+   background-color: #EFD372;
+   height: 323px;
+   width: 1400px;
+   left: 260px;
+   top: 2838px;
+   border-radius: 30px;
+   margin-left: 260px;  
+}
+.footer{
+    display: flex;
+}
+.h_2 {
+    height: 35px;
+    width: 149px;
+    color: #274C5B;
+    font-size: 30px;
+    margin-left: 255px;
+    margin-top: 60px;
+    font-family:'Roboto', sans-serif; 
+}
+.ul2{
+    font-size: 18px;
+    color:#525C60;
+    margin-left: 261px;
+    margin-top: 33px;
+    padding-inline-end: 1172px;
+}
+h2{
+    margin-top: 60px;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    margin-left: 255px;
+   
+}
+
+.needhelp{
+     margin-top: 10px;
+     font-family: 'Open Sans', sans-serif;
+}
+.phone{
+    margin-top: 20px;
+   
+}
+.namber{
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+.addres{
+    margin-top: 20px;
+}
+.road{
+    margin-top: 10px;
+    font-family:'Open Sans', sans-serif ;
+}
+.logo_1{
+
+   margin-left: 819px;
+   display: flex;
+}
+.Organick_2{
+    font-family:'Roboto', sans-serif; 
+    font-size: 38px;
+    margin-left: 8px;
+    margin-top: 10px;
+}
+.p_7{
+    margin-left: 688px;
+    margin-top: 26px;
+    width: 543px;
+    font-size: 18px;
+    height: 60px;
+    font-family: 'Open Sans', sans-serif;
+}
+.loremip{
+    margin-left: 30px;
+}
+footer h1{
+    height: 35px;
+    width: 171px;
+    font-size: 30px;
+    font-family:'Roboto', sans-serif ;
+    margin-left: 1374px;
+}
+footer p{
+    margin-left: 1374px;
+    margin-top: 24px;
+    font-family: 'Open Sans', sans-serif;
+}
+.Contactus{
+    margin-top: -165px;
+}
+.maindiv{
+      margin-top: -250px;
+}
+.lastelement{
+    margin-left:634px ;
+    padding-block-end: 23px;
+    margin-top: 17px 
+}
+hr {
+    margin-top: 100px;
+    border-top: 3px double #333;   
+} 
+.img2{
+    margin-left: 28px;
+    background-color: #F9F8F8;
+    border-radius: 20px; 
 }
